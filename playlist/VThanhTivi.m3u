@@ -26,27 +26,6 @@ https://6721.liveplay.now.qq.com/live/6721_8d905a455ba289dcf7fe70d8d613ff6d.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="", Nhạc Lofi
 http://www.vthanh.wtf/getlink/ytlive.php?id=5qap5aO4i9A
 
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 1
-http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 2
-http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 3
-http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 4
-http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 5
-http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 6
-http://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 7
-http://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 8
-http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 9
-http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 10
-http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", eSports
 http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
 
