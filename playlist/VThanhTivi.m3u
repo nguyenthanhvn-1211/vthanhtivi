@@ -23,7 +23,7 @@ https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cak
 http://35.220.129.25/vtvcab18/mpegts
 
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 1
-http://35.220.129.25/epl1/mpegts
+http://103.207.38.11/kpm/mpegts
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 2
 http://35.220.129.25/epl2/mpegts
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 3
@@ -764,4 +764,3 @@ https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv6hd1
 https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv8hd/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="ClipTV Test" tvg-logo="http://vthanhchannel.github.io/ic/11.png", VTV9 HD
 https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv9hd/chunklist_b3128000.m3u8
-x
