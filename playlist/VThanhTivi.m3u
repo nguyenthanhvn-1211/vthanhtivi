@@ -31,6 +31,15 @@ http://35.220.129.25/epl3/mpegts
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 4
 http://35.220.129.25/epl4/mpegts
 
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png", Ligue 1 | Kênh 1
+http://cb8b97a63d7e.ap.ngrok.io/ligue1/mpegts
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png", Ligue 1 | Kênh 2
+http://cb8b97a63d7e.ap.ngrok.io/ligue2/mpegts
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png", Ligue 1 | Kênh 3
+http://cb8b97a63d7e.ap.ngrok.io/ligue3/mpegts
+#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/ba/Ligue_1_Uber_Eats.svg/1200px-Ligue_1_Uber_Eats.svg.png", Ligue 1 | Kênh 4
+http://cb8b97a63d7e.ap.ngrok.io/ligue4/mpegts
+
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png", Bundesliga 1
 http://cb8b97a63d7e.ap.ngrok.io/bundesliga1/mpegts
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png", Bundesliga 2
