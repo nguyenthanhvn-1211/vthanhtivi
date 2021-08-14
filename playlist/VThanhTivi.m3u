@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được sưu tầm và build bởi VThanh
 #Cần trợ giúp liên hệ FB: fb.com/VThanhChannel hoặc Zalo: thanhnguyen2017
-#Update 12/08/2021
-#List gốc tại rlink.wtf/vthanhtivi hoặc www.vthanh.wtf/VThanhTivi.m3u. Mọi list khác sẽ không được hỗ trợ.
+#Update 13/08/2021
+#List gốc tại http://rlink.vn/vthanhtivi hoặc http://lienket.vn/vthanhtivi. Mọi list khác sẽ không được hỗ trợ.
 #Donate: xem ở cuối list (không bắt buộc)
 #Chúc các bác xem vui vẻ!
 
@@ -18,10 +18,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m402nd/playlist.m3u8|Referer=http://cak
 https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 6
 https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 7
-https://1541713333.cloud.anycastapnic.com/hangseo/taihd1/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
-#EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 8
-https://1541713333.cloud.anycastapnic.com/hangseo/taihd2/chunklist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="", Covid-19 Stats
 http://www.vthanh.wtf/getlink/ytlive.php?id=NMre6IAAAiU
