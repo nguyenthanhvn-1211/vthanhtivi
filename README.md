@@ -1,4 +1,4 @@
-# VThanhTivi
+# ![Logo](http://vthanhchannel.github.io/images/PicsArt_08-16-11.31.16.png)
 
 ## List xem TV cơ bản được xây dựng bởi VThanh.
 ### List bao gồm các kênh cơ bản như VTV1, VTV3, HBO,... và các kênh trực tiếp bóng đá được cập nhật thường xuyên.
