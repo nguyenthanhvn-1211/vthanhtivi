@@ -20,3 +20,8 @@ Kết bạn Zalo: 0911170510 (**KHÔNG GỌI CHO MÌNH**)
 
 _Chúc các bác xem tivi vui vẻ!_
 
+![Ảnh 1](http://vthanhchannel.github.io/images/20210816_231732.png)
+![Ảnh 2](http://vthanhchannel.github.io/images/20210816_231746.png)
+![Ảnh 3](http://vthanhchannel.github.io/images/20210816_231757.png)
+![Ảnh 4](http://vthanhchannel.github.io/images/20210816_231808.png)
+![Ảnh 5](http://vthanhchannel.github.io/images/20210816_231822.png)
