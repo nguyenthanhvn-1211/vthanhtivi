@@ -1,6 +1,7 @@
-# VThanhTivi - List xem TV các kênh cơ bản được thực hiện bởi VThanh 😁
+# VThanhTivi
 
-## List bao gồm các kênh cơ bản như VTV1, VTV3, HBO,... và các kênh trực tiếp bóng đá được cập nhật thường xuyên.
+## List xem TV cơ bản được xây dựng bởi VThanh.
+### List bao gồm các kênh cơ bản như VTV1, VTV3, HBO,... và các kênh trực tiếp bóng đá được cập nhật thường xuyên.
 
 **List xem được trên các app xem tivi phổ biến như:**
 - IPTV Pro (một số kênh cần chuyển sang HW để xem)
