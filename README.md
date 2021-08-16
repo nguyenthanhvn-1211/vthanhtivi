@@ -12,6 +12,8 @@ _Nhập playlist ở:_ [http://rlink.vn/vthanhtivi](http://rlink.vn/vthanhtivi)
 
 _Link dự phòng:_ [http://lienket.vn/vthanhtivi](http://lienket.vn/vthanhtivi)
 
+_Xem những cập nhật mới:_ [http://t.me/vthanhtivi](http://t.me/vthanhtivi)
+
 ### Donate cho mình: ###
 - [MoMo](https://nhantien.momo.vn/vthanhchannel)
 - Chuyển khoản ngân hàng, thẻ cào điện thoại: liên hệ [Facebook](http://m.me/VThanhChannel)
@@ -25,3 +27,6 @@ _Chúc các bác xem tivi vui vẻ!_
 ![Ảnh 3](http://vthanhchannel.github.io/images/20210816_231757.png)
 ![Ảnh 4](http://vthanhchannel.github.io/images/20210816_231808.png)
 ![Ảnh 5](http://vthanhchannel.github.io/images/20210816_231822.png)
+
+
+16/08/2021 by VThanh.
