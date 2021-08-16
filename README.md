@@ -13,7 +13,7 @@ _Nhập playlist ở:_ http://rlink.vn/vthanhtivi
 _Link dự phòng:_ http://lienket.vn/vthanhtivi
 
 ### Donate cho mình: ###
-- MoMo: http://nhantien.momo.vn/vthanhchannel
+- MoMo: https://nhantien.momo.vn/vthanhchannel
 - Chuyển khoản ngân hàng, thẻ cào điện thoại: liên hệ Facebook http://m.me/VThanhChannel
 - ZaloPay: 
 Kết bạn Zalo: 0911170510 (**KHÔNG GỌI CHO MÌNH**)
