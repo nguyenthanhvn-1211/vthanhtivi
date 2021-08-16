@@ -14,7 +14,7 @@ _Link dự phòng:_ [http://lienket.vn/vthanhtivi](http://lienket.vn/vthanhtivi)
 
 ### Donate cho mình: ###
 - [MoMo](https://nhantien.momo.vn/vthanhchannel)
-- Chuyển khoản ngân hàng, thẻ cào điện thoại: liên hệ Facebook http://m.me/VThanhChannel
+- Chuyển khoản ngân hàng, thẻ cào điện thoại: liên hệ [Facebook](http://m.me/VThanhChannel)
 - ZaloPay: 
 Kết bạn Zalo: 0911170510 (**KHÔNG GỌI CHO MÌNH**)
 
