@@ -1,11 +1,13 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được sưu tầm và build bởi VThanh
 #Cần trợ giúp liên hệ FB: fb.com/VThanhChannel hoặc Zalo: thanhnguyen2017
-#Update 16/08/2021
+#Update 19/08/2021
 #List gốc tại http://rlink.vn/vthanhtivi hoặc http://lienket.vn/vthanhtivi. Mọi list khác sẽ không được hỗ trợ.
 #Donate: xem ở cuối list (không bắt buộc)
 #Chúc các bác xem vui vẻ!
 
+#EXTINF:-1 group-title="General-forVMF" tvg-logo="http://vthanhtivi.cf/images/PicsArt_08-16-11.31.16.png", Made by VThanhTivi
+https://livecdn.fptplay.net/hda4/f-channel.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 1
 https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 2
@@ -23,8 +25,6 @@ https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cak
 http://35.220.129.25/vtvcab16/mpegts
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức
 http://35.220.129.25/vtvcab18/mpegts
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức || Dự phòng
-http://103.207.38.11/vtvcab18/mpegts
 
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 1
 http://35.220.129.25/kpm/mpegts
@@ -730,22 +730,3 @@ https://hls.baohatinh.vn/baohatinh/news/2126/e965a70ab741bec9dc53dc55a08e3b71/dm
 https://hls.baohatinh.vn/baohatinh/news/2126/e965a70ab741bec9dc53dc55a08e3b71/dmu720.m3u8?v=1624933803
 #EXTINF:-1 group-title="Donate" tvg-logo="https://doithedienthoai.com/pictures/images/421-lazada-the-nap-dien-thoai-1.jpg", Card ĐT | inbox FB: http://fb.com/VThanhChannel
 https://hls.baohatinh.vn/baohatinh/news/2126/e965a70ab741bec9dc53dc55a08e3b71/dmu720.m3u8?v=1624933803
-
-#EXTINF:-1 group-title="ClipTV Test" tvg-logo="http://cliptv.vn/themes/wap-2017/images/logo.png?v=2", Nhóm ClipTV không xem được trên 1 số mạng
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv1hd1/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/1.png", VTV1 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv1hd1/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/2.png", VTV2 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv2hd/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/3.png", VTV3 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv3hd1/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/4.png", VTV4 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv4hd/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/5.png", VTV5 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv5hd/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/8.png", VTV6 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv6hd1/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/10.png", VTV8 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv8hd/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/11.png", VTV9 HD
-https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv9hd/chunklist_b3128000.m3u8
