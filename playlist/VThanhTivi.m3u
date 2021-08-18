@@ -23,6 +23,8 @@ https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cak
 http://35.220.129.25/vtvcab16/mpegts
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức
 http://35.220.129.25/vtvcab18/mpegts
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức || Dự phòng
+http://103.207.38.11/vtvcab18/mpegts
 
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://i.pinimg.com/564x/e7/f9/dc/e7f9dcf76d4142610c4e48418ccdc3da.jpg", EPL 1
 http://35.220.129.25/kpm/mpegts
@@ -54,28 +56,7 @@ https://6721.liveplay.now.qq.com/live/6721_8d905a455ba289dcf7fe70d8d613ff6d.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="", Nhạc Lofi
 http://www.vthanh.wtf/getlink/ytlive.php?id=5qap5aO4i9A
 
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 1
-http://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 2
-http://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 3
-http://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 4
-http://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 5
-http://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 6
-http://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 7
-http://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 8
-http://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 9
-http://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", AFC Cup 10
-http://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", eSports
+#EXTINF:-1 tvg-id="" group-title="Livestream" tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2018/12/fpt-play.png", FPTPlay eSports
 http://livecdn.fptplay.net/schedule/esport01_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanhtivi.cf/ic/1.png", VTV1 HD
@@ -750,6 +731,8 @@ https://hls.baohatinh.vn/baohatinh/news/2126/e965a70ab741bec9dc53dc55a08e3b71/dm
 #EXTINF:-1 group-title="Donate" tvg-logo="https://doithedienthoai.com/pictures/images/421-lazada-the-nap-dien-thoai-1.jpg", Card ĐT | inbox FB: http://fb.com/VThanhChannel
 https://hls.baohatinh.vn/baohatinh/news/2126/e965a70ab741bec9dc53dc55a08e3b71/dmu720.m3u8?v=1624933803
 
+#EXTINF:-1 group-title="ClipTV Test" tvg-logo="http://cliptv.vn/themes/wap-2017/images/logo.png?v=2", Nhóm ClipTV không xem được trên 1 số mạng
+https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv1hd1/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/1.png", VTV1 HD
 https://106135605.vws.vegacdn.vn/vthanhtivi/9999999999/cliptv_live/amlst:vtv1hd1/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="ClipTV Test" tvg-logo="http://vthanhtivi.cf/ic/2.png", VTV2 HD
