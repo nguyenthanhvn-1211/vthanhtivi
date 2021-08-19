@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
 #List được sưu tầm và build bởi VThanh
 #Cần trợ giúp liên hệ FB: fb.com/VThanhChannel hoặc Zalo: thanhnguyen2017
-#Update 19/08/2021
+#Update 20/08/2021
 #List gốc tại http://rlink.vn/vthanhtivi hoặc http://lienket.vn/vthanhtivi. Mọi list khác sẽ không được hỗ trợ.
 #Donate: xem ở cuối list (không bắt buộc)
 #Chúc các bác xem vui vẻ!
@@ -21,6 +21,8 @@ https://7038446ef.vws.vegacdn.vn/livehls/m203nd/playlist.m3u8|Referer=http://cak
 #EXTINF:-1 group-title="Live Bóng Đá" tvg-logo="https://703531862.vws.vegacdn.vn/template2/user/img/ck.png", CaKhia 6
 https://7038446ef.vws.vegacdn.vn/livehls/m503nd/playlist.m3u8|Referer=http://cakhia2.live/truc-tiep
 
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/15.png", Thể Thao TV
+http://35.220.129.25/vtvcab3/mpegts
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/25.png", Bóng Đá TV
 http://35.220.129.25/vtvcab16/mpegts
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="Live Bóng Đá" tvg-logo="https://vthanhtivi.cf/ic/28.png", Thể Thao Tin Tức
