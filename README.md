@@ -9,17 +9,13 @@
 - SS IPTV (không hỗ trợ xem một số kênh)
 - ...
 
-_Nhập playlist ở:_ [http://rlink.vn/vthanhtivi](http://rlink.vn/vthanhtivi)
-
-_Link dự phòng:_ [http://lienket.vn/vthanhtivi](http://lienket.vn/vthanhtivi)
-
-_Xem những cập nhật mới:_ [http://t.me/vthanhtivi](http://t.me/vthanhtivi)
+_Link:_ [http://lienket.vn/vthanhtivi](http://lienket.vn/vthanhtivi)
 
 ### Donate cho mình: ###
 - [MoMo](https://nhantien.momo.vn/vthanhchannel)
 - Chuyển khoản ngân hàng, thẻ cào điện thoại: liên hệ [Facebook](http://m.me/VThanhChannel)
 - ZaloPay: 
-Kết bạn Zalo: 0911170510 (**KHÔNG GỌI CHO MÌNH**)
+![QR](http://vthanhtivi.cf/images/zalopay.png)
 
 _Chúc các bác xem tivi vui vẻ!_
 
@@ -30,4 +26,4 @@ _Chúc các bác xem tivi vui vẻ!_
 ![Ảnh 5](http://vthanhtivi.cf/images/20210816_231822.png)
 
 
-16/08/2021 by VThanh.
+16/08/2021 by VThanh (edit 18/09/2021).
