@@ -15,7 +15,7 @@ _Link:_ [http://lienket.vn/vthanhtivi](http://lienket.vn/vthanhtivi)
 - [MoMo](https://nhantien.momo.vn/vthanhchannel)
 - Chuyển khoản ngân hàng, thẻ cào điện thoại: liên hệ [Facebook](http://m.me/VThanhChannel)
 - ZaloPay: 
-![QR](http://vthanhtivi.cf/images/zalopay.png)
+![](http://vthanhtivi.cf/images/zalopay.png)
 
 _Chúc các bác xem tivi vui vẻ!_
 
