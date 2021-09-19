@@ -13,9 +13,9 @@ _Link:_ [http://lienket.vn/vthanhtivi](http://lienket.vn/vthanhtivi)
 
 ### Donate cho mình: ###
 - [MoMo](https://nhantien.momo.vn/vthanhchannel)
-- Chuyển khoản ngân hàng, thẻ cào điện thoại: liên hệ [Facebook](http://m.me/VThanhChannel)
-- ZaloPay: 
-![QR](http://vthanhtivi.cf/images/zalopay.png)
+- Các hình thức khác: liên hệ [Facebook](http://m.me/VThanhChannel)
+- ZaloPay: (sử dụng tính năng quét mã QR)
+![QR](https://raw.githubusercontent.com/vthanhchannel/VThanhTivi/main/images/zalopay.png)
 
 _Chúc các bác xem tivi vui vẻ!_
 
@@ -26,4 +26,4 @@ _Chúc các bác xem tivi vui vẻ!_
 ![Ảnh 5](http://vthanhtivi.cf/images/20210816_231822.png)
 
 
-16/08/2021 by VThanh (edit 18/09/2021).
+16/08/2021 by VThanh (edit 19/09/2021).
