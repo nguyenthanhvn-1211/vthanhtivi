@@ -11,11 +11,7 @@
 
 _Link:_ [http://lienket.vn/vthanhtivi](http://lienket.vn/vthanhtivi)
 
-### Donate cho mình: ###
-- [MoMo](https://nhantien.momo.vn/vthanhchannel)
-- Các hình thức khác: liên hệ [Facebook](http://m.me/VThanhChannel)
-- ZaloPay: (sử dụng tính năng quét mã QR)
-![QR](https://raw.githubusercontent.com/vthanhchannel/VThanhTivi/main/images/zalopay.png)
+### Donate cho mình: [Xem tại đây](http://vthanhtivi.cf/donate)
 
 _Chúc các bác xem tivi vui vẻ!_
 
